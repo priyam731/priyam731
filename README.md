@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hi there! I'm Priyam Sri<br><br>🌟 Current Work:<br>I'm currently exploring the fascinating world of AI/ML 🤖, focusing on model training and building intelligent applications that make a difference!<br><br>📚 Learning Journey:<br>Diving into MERN stack development 🌐, I'm enhancing my skills in MongoDB, Express.js, React, and Node.js while integrating AI capabilities into my projects.<br><br>❓ Ask Me About:<br>Curious about machine learning, backend development, or how to combine them? Let's chat! 💬<br><br>🤝 Collaboration:<br>I'm always looking for exciting projects to collaborate on! If you have an idea or need help, let's connect and innovate together! 🚀<br><br>
+👋 Hi there! I'm Priyam Sri<br><br>🌟 Current Work:<br>a passionate Full Stack Developer who loves building fast, clean, and user-centric web applications.
+
+💻 I work across the stack, combining elegant frontend design with efficient backend logic. My toolset includes React, Tailwind CSS, Node.js, Express, MongoDB, and Flutter, enabling me to deliver scalable solutions from concept to deployment.<br><br>❓ Ask Me About:<br>Curious about machine learning, backend development, or how to combine them? Let's chat! 💬<br><br>🤝 Collaboration:<br>I'm always looking for exciting projects to collaborate on! If you have an idea or need help, let's connect and innovate together! 🚀<br><br>
 
 
 ## 🌐 Socials:
