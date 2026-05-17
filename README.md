@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💫 <img width="1023" height="364" alt="generated-image" src="https://github.com/user-attachments/assets/2183c5d8-07ee-4877-9c43-96bc635c8d3c" />
+## <img width="250" height="100" alt="generated-image" src="https://github.com/user-attachments/assets/2183c5d8-07ee-4877-9c43-96bc635c8d3c" />
 
 👋 I'm PriyamSri
-<br><br>🌟I’m Ai + fullstack roles.
+<br><br>🌟I’m Ai + fullstack dev. I love automation.
 
 - 🥏 Also the Co-creator of [Collabdoor](https://github.com/collabdoor).
 
