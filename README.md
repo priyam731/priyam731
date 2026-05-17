@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💫 About Me:
-👋 Hi there! I'm Priyam Sri
-<br><br>🌟I’m currently seeking full time frontend/fullstack roles.
+## 💫 <img width="1023" height="364" alt="generated-image" src="https://github.com/user-attachments/assets/2183c5d8-07ee-4877-9c43-96bc635c8d3c" />
+
+👋 I'm PriyamSri
+<br><br>🌟I’m Ai + fullstack roles.
+
 - 🥏 Also the Co-creator of [Collabdoor](https://github.com/collabdoor).
 
-🌱 Reach me out on my e-mail priyamsrivastava34@gmail.com
+- 🌱 Reach me out on my e-mail priyamsrivastava34@gmail.com
 
+- 💻 I work across the stack, combining elegant frontend design with efficient backend logic.
 
-
-💻 I work across the stack, combining elegant frontend design with efficient backend logic.
-If you have an idea or need help, let's connect and innovate together! 🚀<br><br>
+- If you have big dreams and are ambitious, let's connect and innovate together! 🚀<br><br>
 
 
 
